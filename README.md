@@ -40,7 +40,9 @@ You might even consider this as *survey of surveys* in neural network, as many o
 
 [Larger batch size, larger learning rate?](https://arxiv.org/abs/1706.02677)
 
-## Fascinating Aspects of Neural Networks
+[Emergent Capabilities vs Inverse scaling]() :
+
+## Fascinating Aspects of Neural Network
 
 [Shortcut learning](https://arxiv.org/abs/2004.07780), [Gradient Starvation](https://arxiv.org/abs/2011.09468)
  : Neural network tends to "cheat in learning" when it has the chance. 
@@ -51,7 +53,11 @@ You might even consider this as *survey of surveys* in neural network, as many o
 
 [Information Bottleneck]() :
 
+[Double Descent]() :
 
+[Grokking]() :
+
+[Bootstrapping, self-distillation, ensemble... Learning from itself? How does that even make sense?]() :
 
 ## These might provide some alternative insights
 
@@ -63,10 +69,17 @@ You might even consider this as *survey of surveys* in neural network, as many o
 
 [Diffusion & Score Matching]()
 
+[Common variable trick (I made this term up)]():
+
+[Reparameterizations]():
+
+[Gradient estimation]():
+
+
 ## Specific to Reinforcement Learning
 
 [Why not just, learn from expert data?](https://arxiv.org/abs/2204.05618)
 
 [Do we really need deep learning for RL?]()
 
-[Features of the MLP is not that great]()
+[Features of the MLP is not that great when it comes to RL]()
